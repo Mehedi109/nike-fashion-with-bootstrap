@@ -1,0 +1,33 @@
+body{
+    margin: 0 auto;
+}
+header{
+    background-color: #FFF9F4;
+}
+.nav-item{
+    padding: 0px 15px;
+}
+.intro-left{
+    width: 45%;
+}
+.intro-left img{
+    width: 100%;
+}
+.intro-right{
+    width: 45%;
+    margin-left: 10%;
+}
+.intro-right h1{
+    font-size: 50px;
+}
+.card img{
+    width: 300px;
+    height: 340px;
+}
+.card-button img{
+    width: 25%;
+    height: 100%;
+}
+.top-img img{
+    width: 50%;
+}
